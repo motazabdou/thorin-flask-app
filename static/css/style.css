@@ -5,3 +5,15 @@
 #mainNav {
   position: static;
 }
+
+#mainNav .navbar-nav>li.nav-item>a {
+  color:black;
+}
+
+#mainNav .navbar-brand {
+  color: black;
+}
+
+.col-md-5 img {
+  width: 100%;
+}
